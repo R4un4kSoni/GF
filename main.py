@@ -1,6 +1,7 @@
 import time
-name = 'xyz ❤️'
-print(name)
+name = 'xyz'
+emo = '❤️'
+print(name+emo)
 
 user_input = input("Send a message: ")
 time.sleep(1)
