@@ -5,8 +5,8 @@
 Features
 </h1>
 
-<h3>
-|- Real life experience
-|- Chat with you whenever you feel down
-|- Supportive in nature
+<h3 style="color:yellow">
+|- Real life experience </br>
+|- Chat with you whenever you feel down </br>
+|- Supportive in nature </br>
 </h3>
